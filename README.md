@@ -1,2 +1,2 @@
-# library-app-js
-A simple library app using JavaScript | Interview Question
+# Book Lending App
+A simple book lending app using JavaScript | Interview Question
